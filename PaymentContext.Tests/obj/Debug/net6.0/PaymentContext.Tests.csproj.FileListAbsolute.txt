@@ -96,3 +96,8 @@ C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\obj\Debug\net6.0\r
 C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\obj\Debug\net6.0\PaymentContext.Tests.pdb
 C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\obj\Debug\net6.0\PaymentContext.Tests.genruntimeconfig.cache
 C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\obj\Debug\net6.0\ref\PaymentContext.Tests.dll
+C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\PaymentContext.Domain.dll
+C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\PaymentContext.Shared.dll
+C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\PaymentContext.Shared.pdb
+C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\PaymentContext.Domain.pdb

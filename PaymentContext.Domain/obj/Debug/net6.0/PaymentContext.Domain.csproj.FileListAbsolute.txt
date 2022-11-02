@@ -10,3 +10,6 @@ C:\projects\csharp dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net6.0\
 C:\projects\csharp dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net6.0\refint\PaymentContext.Domain.dll
 C:\projects\csharp dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.pdb
 C:\projects\csharp dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net6.0\ref\PaymentContext.Domain.dll
+C:\projects\csharp dotnet\PaymentContext\PaymentContext.Domain\bin\Debug\net6.0\PaymentContext.Shared.dll
+C:\projects\csharp dotnet\PaymentContext\PaymentContext.Domain\bin\Debug\net6.0\PaymentContext.Shared.pdb
+C:\projects\csharp dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.csproj.CopyComplete
