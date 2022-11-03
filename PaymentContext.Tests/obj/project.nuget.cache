@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AJmN2aeXllCBnXWp6Sj6OzPj77j57qIHoTHA2EVzH3hx9B3OAiFtsCgpaINCey0HBUrd6x/xBZkYrNQjO7RAjw==",
+  "dgSpecHash": "tACLgVQJq5FEOBGEA/7SFnLpIlaz/HfaHUeoqSVNuJ1a75tMVQGOknjGIuWUMkO6i/Gg7TVdraH8US6JXFau3w==",
   "success": true,
-  "projectFilePath": "C:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+  "projectFilePath": "c:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Riquinho\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Riquinho\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
