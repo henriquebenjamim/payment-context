@@ -6376,11 +6376,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+      "projectUniqueName": "C:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
       "projectName": "PaymentContext.Tests",
-      "projectPath": "c:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+      "projectPath": "C:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
       "packagesPath": "C:\\Users\\Riquinho\\.nuget\\packages\\",
-      "outputPath": "c:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Tests\\obj\\",
+      "outputPath": "C:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Riquinho\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6395,11 +6395,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
-              "projectPath": "c:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
+            "C:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+              "projectPath": "C:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
             },
-            "c:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-              "projectPath": "c:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+            "C:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "C:\\projects\\csharp dotnet\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }
