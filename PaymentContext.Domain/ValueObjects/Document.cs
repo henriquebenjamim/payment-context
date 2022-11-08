@@ -27,13 +27,16 @@ namespace PaymentContext.Domain.ValueObjects
         private bool Validate()
         {
             if(Type == EDocumentType.CNPJ && Number.Length == 14)
-            return true;
+            {
+                return true;
+            }
 
-            if(Type == EDocumentType.CNPJ && Number.Length == 11)
-            return true;
-
-            return false;
+            if (Type == EDocumentType.CPF && Number.Length == 11)
+            {
+                return true;
+            }
             
+            return false;
         }
     }
 }

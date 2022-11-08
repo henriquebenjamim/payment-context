@@ -101,3 +101,4 @@ C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\P
 C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\PaymentContext.Shared.dll
 C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\PaymentContext.Shared.pdb
 C:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\PaymentContext.Domain.pdb
+c:\projects\csharp dotnet\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\Flunt.dll
